@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "LinkedIn suite">
+	<test name ="LinkedIn test">
+		<packages>
+			<package name="testCaseRepository" />
+		</packages>
+	</test>
+</suite>
